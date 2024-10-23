@@ -3,7 +3,7 @@ A script to mimic Telenor Online's login system
 
 ## What is Telenor Online?
 
-Telenor Online was the name for Telenor Hungary's online features from 2010 to late 2013. If you had an account you was able to:
+Telenor Online was the name for Telenor Hungary's online features from 2010 to late 2013. If you had an account you were able to:
 
 - Buy products, subscriptions and services
 - Activate "Express Package" (Prepaid SIM card)
